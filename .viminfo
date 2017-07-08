@@ -21,13 +21,63 @@
 # Registers:
 
 # File marks:
-'0  1  7  ~/sastri
-'1  1  19  ~/chowdary/suresh.txt
-'2  1  11  ~/suresh/file2
-'3  1  10  ~/suresh/file1
-'4  7  15  /etc/selinux/config
+'0  2  4  ~/test.html
+'1  1  7  ~/sastri
+'2  1  19  ~/chowdary/suresh.txt
+'3  1  11  ~/suresh/file2
+'4  1  10  ~/suresh/file1
+'5  7  15  /etc/selinux/config
 
 # Jumplist (newest first):
+-'  2  4  ~/test.html
+-'  1  0  ~/test.html
+-'  1  7  ~/sastri
+-'  1  19  ~/chowdary/suresh.txt
+-'  1  11  ~/suresh/file2
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  11  ~/suresh/file2
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  19  ~/chowdary/suresh.txt
+-'  1  11  ~/suresh/file2
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  11  ~/suresh/file2
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  1  10  ~/suresh/file1
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  7  15  /etc/selinux/config
+-'  1  0  /etc/selinux/config
 -'  1  7  ~/sastri
 -'  1  19  ~/chowdary/suresh.txt
 -'  1  11  ~/suresh/file2
@@ -77,6 +127,12 @@
 -'  1  0  /etc/selinux/config
 
 # History of marks within files (newest to oldest):
+
+> ~/test.html
+	"	2	4
+	^	2	5
+	.	2	4
+	+	2	4
 
 > ~/sastri
 	"	1	7
