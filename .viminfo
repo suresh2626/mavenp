@@ -21,14 +21,16 @@
 # Registers:
 
 # File marks:
-'0  2  4  ~/test.html
-'1  1  7  ~/sastri
-'2  1  19  ~/chowdary/suresh.txt
-'3  1  11  ~/suresh/file2
-'4  1  10  ~/suresh/file1
-'5  7  15  /etc/selinux/config
+'0  1  12  ~/suresh/ff.txt
+'1  2  4  ~/test.html
+'2  1  7  ~/sastri
+'3  1  19  ~/chowdary/suresh.txt
+'4  1  11  ~/suresh/file2
+'5  1  10  ~/suresh/file1
+'6  7  15  /etc/selinux/config
 
 # Jumplist (newest first):
+-'  1  12  ~/suresh/ff.txt
 -'  2  4  ~/test.html
 -'  1  0  ~/test.html
 -'  1  7  ~/sastri
@@ -125,8 +127,15 @@
 -'  1  0  /etc/selinux/config
 -'  7  15  /etc/selinux/config
 -'  1  0  /etc/selinux/config
+-'  2  4  ~/test.html
 
 # History of marks within files (newest to oldest):
+
+> ~/suresh/ff.txt
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
 
 > ~/test.html
 	"	2	4
